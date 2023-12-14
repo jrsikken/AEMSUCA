@@ -3,6 +3,8 @@ The AEMSUCA is a 15x20mm board for the AEM10941 Solar Harvesting IC from E-peas.
 
 I sell this board on Tindie. https://www.tindie.com/products/14935/
 
+I also sell this board through Elecrow. https://www.elecrow.com/solar-harvesting-into-supercapacitors.html
+
 This project is on Hackaday https://hackaday.io/project/160470/
 
 <img src="https://cdn.tindiemedia.com/images/resize/0zz-lJM-GDi_0ixe9AURenk6aFk=/p/full-fit-in/2336x1752/i/20561/products/2020-12-26T20%3A21%3A24.657Z-2020-12-24%2021.34.29.jpg?1608985323">
